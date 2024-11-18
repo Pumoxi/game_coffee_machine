@@ -10,7 +10,7 @@ TOPUP = 2.00
 def get_input():
     """This is to print the welcome menu"""
 
-    return input("What would you like? (espresso/latte/cappucino): ")
+    return input("What would you like? (espresso/latte/cappuccino): ")
 
 def print_report():
     """This is to print the report of the coffee machine"""

@@ -21,7 +21,7 @@ coffee = {
             },
             "cost": 2.50
         },
-    "cappucino":
+    "cappuccino":
         {
             "ingredients":
             {
