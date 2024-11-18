@@ -1,3 +1,5 @@
+[Link to my blogpost](https://pumoxi.com/2024/11/18/python-coffee-machine-game-simulating-a-real-life-experience/)
+
 # Coffee Machine Simulator
 
 A Python-based coffee machine simulator that allows users to:
